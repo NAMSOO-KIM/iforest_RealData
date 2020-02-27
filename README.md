@@ -1,5 +1,6 @@
 # Blouse_Review_Data
-# The DataSet Used is Blouse Review in korea. Final results are anomaly scores based on dimension or style.
+# The DataSet Used is Blouse Review in korea. 
+# Final results are anomaly scores based on dimension or style.
 # language : korean
 # STEP 
  
