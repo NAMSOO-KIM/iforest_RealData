@@ -1,7 +1,8 @@
 # Blouse_Review_Data
-# The DataSet Used is Blouse Review in korea. 
-# Final results are anomaly scores based on dimension or style.
-# language : korean
+The DataSet Used is Blouse Review in korea. Final results are anomaly scores based on dimension or style.
+
+language : korean
+
 # STEP 
  
  1. download fasttext (https://github.com/facebookresearch/fastText) for word embedding.
