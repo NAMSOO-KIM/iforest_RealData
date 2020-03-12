@@ -16,8 +16,8 @@ language : korean
     Ref) https://fasttext.cc/docs/en/crawl-vectors.html
 
  2. download sister (https://github.com/NAMSOO-KIM/sister) for sentence embedding.
-  
-    (1) pip uninstall sister
+    
+    (1) git clone https://github.com/NAMSOO-KIM/sister.git
   
     (2) cd sister
   
