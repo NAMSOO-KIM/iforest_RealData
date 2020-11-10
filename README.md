@@ -1,4 +1,7 @@
 # Blouse_Review_Data
+데이터 셋: 쇼핑몰 Blouse Review
+언어: 한국어
+
 The DataSet Used is Blouse Review in korea. Final results are anomaly scores based on dimension or style.
 
 language : korean
